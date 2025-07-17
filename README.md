@@ -34,6 +34,7 @@ A cost-effective, accessible knob interface to wirelessly control non-smart home
 ##  Project Team
 - [@aadhur](https://github.com/aadhur) - Aadhurshini
 - [@lolakshay](https://github.com/lolakshay) - Akshay Srinivas N
-
+- Adhithyan Jayaraman
+  
 ---
 
